@@ -4,7 +4,7 @@
     "author": "Marc Masip",
     "website": "https://github.com/mmasipgu/microWakeWord-Trainer-Nvidia-Docker",
     "model": "hey_jjarvis.tflite",
-    "trained_languages": ["en"],
+    "trained_languages": ["es"],
     "version": 2,
     "micro": {
         "probability_cutoff": 0.96,
