@@ -4,10 +4,8 @@
   "label": "Hey Jjarvis",
   "author": "Tater Totterson",
   "website": "https://github.com/mmasipgu/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "https://github.com/mmasipgu/microWakeWord-Trainer-Nvidia-Docker/blob/main/words/hey_jjarvis.tflite",
-  "trained_languages": [
-    "es"
-  ],
+  "model": "hey_jjarvis.tflite",
+  "trained_languages": ["es"],
   "version": 2,
   "model_format": "tflite_stream_state_internal_quant",
   "quantization": "int8",
