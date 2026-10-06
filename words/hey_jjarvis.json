@@ -1,7 +1,6 @@
 {
   "type": "micro",
   "wake_word": "Hey Jjarvis",
-  "label": "Hey Jjarvis",
   "author": "Marc Masip",
   "website": "https://github.com/mmasipgu/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "hey_jjarvis.tflite",
