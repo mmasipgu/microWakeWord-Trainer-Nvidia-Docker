@@ -1,13 +1,14 @@
-
-
 {
   "type": "micro",
   "wake_word": "Hey Jjarvis",
   "label": "Hey Jjarvis",
-  "author": "Tater Totterson",
+  "author": "Marc Masip",
   "website": "https://github.com/mmasipgu/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "hey_jjarvis.tflite",
-  "version": 1,
+  "trained_languages": [
+    "es"
+  ],
+  "version": 2,
   "model_format": "tflite_stream_state_internal_quant",
   "quantization": "int8",
   "sample_rate": 16000,
