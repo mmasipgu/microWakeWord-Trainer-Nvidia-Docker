@@ -4,7 +4,7 @@
   "author": "Marc Masip",
   "website": "https://www.kevinahrendt.com/",
   "model": "hey_jjarvis.tflite",
-  "trained_languages": ["es"],
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.96,
